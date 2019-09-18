@@ -10,5 +10,3 @@ const assertEqual = function(arr1, arr2) {
     }
   }
 };
-
-console.log(assertEqual(["1", "2"], ["1", "2", "3"])) // => true
