@@ -1,7 +1,3 @@
-const eqArrays = require('./eqArrays')
-const assertArrraysEqual = require('./assertArraysEqual')
-
-
 const flatten = function(array) {
   var flatArray = [];
   for (i = 0; i < array.length; i++) {

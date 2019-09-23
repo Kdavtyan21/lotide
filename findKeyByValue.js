@@ -1,6 +1,3 @@
-const assertEqual = require('./assertEqual')
-
-
 const findKeyByValue = function(tvObject, tvShow) {
   for (let genre of Object.keys(tvObject)) {
     if (tvShow === tvObject[genre]) {
@@ -8,5 +5,4 @@ const findKeyByValue = function(tvObject, tvShow) {
     }
   }
 }
-
 module.exports = findKeyByValue;
