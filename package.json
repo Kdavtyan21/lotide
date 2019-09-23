@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@karendavtyan21/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "functions library",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/Kdavtyan21/lotide.git"
   },
-  "author": "",
+  "author": "Karen Davtyan <karendavtyan21@mail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Kdavtyan21/lotide/issues"
